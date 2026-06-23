@@ -1,0 +1,1 @@
+Numpy Practiced notes
